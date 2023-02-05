@@ -1,0 +1,17 @@
+button{
+  margin-right: 10px;
+  background: none;
+  color: grey;
+  font-size: 1.2rem;
+  border: none;
+}
+.todo-list{
+  margin-top: 20px;
+  margin-bottom:20px;
+}
+ul li{
+  font-size: 1.5rem;
+}
+li{
+  margin-top: 15px;
+}
